@@ -1,3 +1,5 @@
+This is a bilingual Chinese/English guide. The Chinese version comes first, and the English version is available in the second half of this README.
+
 # LG G6 / webOS 26 安装 Kodi IPK 教程
 
 > 适用场景：部分较新的 LG 电视型号，例如 LG G6 系列和 webOS 26，目前可能无法通过 [webosbrew/dev-manager-desktop](https://github.com/webosbrew/dev-manager-desktop) 完成安装。本文提供两种替代方式：使用 Codex 客户端辅助安装，以及手动使用 LG 官方 webOS CLI 安装。
